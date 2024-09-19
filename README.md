@@ -1,1 +1,1 @@
-# Image-Recognition-Chatbot
+# Conversational-Image-Recognition-Chatbot
